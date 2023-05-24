@@ -1,0 +1,14 @@
+ADMIN
+admin
+admin@hotmail.com
+admin
+
+USERS
+user
+jovan123
+
+test
+testuser123
+
+test1
+testuser123
